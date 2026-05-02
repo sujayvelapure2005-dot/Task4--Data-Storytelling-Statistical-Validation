@@ -86,7 +86,7 @@ The hypothesis is supported by data insights.
 
 ## 📽️ Demo Video
 
-LinkedIn Video: *(Add your video link here)*
+LinkedIn Video: *(https://www.linkedin.com/posts/sujayvelapure_dataanalytics-powerbi-datascience-ugcPost-7456438109476544512-BNpN)*
 
 ---
 
